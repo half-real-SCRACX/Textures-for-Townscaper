@@ -1,3 +1,14 @@
-{"textures":[
-  { "Name":"Test", "Description":"Test", "Url":"Test" }
-]}
+[
+  {
+    "id":"1",
+    "Title":"1",
+    "description":"lorem ipsum",
+    "URL":"example.com/1"
+  },
+  {
+    "id":"2",
+    "Title":"2",
+    "description":"lorem ipsum",
+    "URL":"example.com/2"
+  }
+]
